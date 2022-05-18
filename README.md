@@ -1,5 +1,5 @@
 ### Hello
-console.log('hello');
+console.log('Hello');
 
 cout << "Hello";
 
